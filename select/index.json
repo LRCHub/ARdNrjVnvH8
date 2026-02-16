@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Forever Student",
+  "base_artist": "KREVA",
+  "createdAt": "2026-02-16T13:22:37.145356Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Graduation (Friends Forever) (Student Interview Mix)",
+      "artist": "Vitamin C",
+      "has_synced": true,
+      "path": "select/01_Graduation_(Friends_Forever)_(Student_Interview_Mix)_Vitamin_C.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Forever Student",
+      "artist": "KREVA",
+      "has_synced": false,
+      "path": "select/pl_01_Forever_Student_KREVA.txt"
+    }
+  ]
+}
